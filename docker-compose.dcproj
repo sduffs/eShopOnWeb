@@ -3,6 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
+    <TargetFramework>net8.0</TargetFramework>
     <ProjectGuid>{1FCBE191-34FE-4B2E-8915-CA81553958AD}</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
